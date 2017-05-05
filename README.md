@@ -1,7 +1,9 @@
- 
+  
 ## WMIMon
 
 This command line tool allows to monitor WMI activity on Windows platform.
+
+If you don't have Visual Studio to build it, you can download binaries from https://github.com/luctalpe/WMIMon/blob/master/Downloads/WMIMon_Binaries.zip
 
 # Features
 

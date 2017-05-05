@@ -1,4 +1,4 @@
-
+ 
 ## WMIMon
 
 This command line tool allows to monitor WMI activity on Windows platform.
@@ -35,7 +35,7 @@ C:\Temp>WMIMOn
 ```
 # Sample 2
 
--Will monitor all queries containing CreateSnaphost. When this query is executed, the prowershell script listvar.ps1 is executed.This script will display all WMIMON powershell variable and will display informations for the WMI current process ($WMIMOM_PID variable)
+- Will monitor all queries containing CreateSnaphost. When this query is executed, the prowershell script listvar.ps1 is executed.This script will display all WMIMON powershell variable and will display informations for the WMI current process ($WMIMOM_PID variable)
 
 ```
 PS C:\temp\WMIMon> type .\listvar.ps1

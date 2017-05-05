@@ -7,14 +7,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="WMIMon.exe.manifest" size="5480">
+    <dependentAssembly dependencyType="install" codebase="WMIMon.exe.manifest" size="5707">
       <assemblyIdentity name="WMIMon.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="amd64" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>gohBcvjE+q9vKsHwJ2FCCBvStOBIVm2pOWwARtDUQGw=</dsig:DigestValue>
+        <dsig:DigestValue>rUK5oh48rP4LZkyVRBut75tHijYHBDK0I3HkeJ/1g4U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

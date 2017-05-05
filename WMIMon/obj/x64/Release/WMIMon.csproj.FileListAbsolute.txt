@@ -1,0 +1,11 @@
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\bin\x64\Release\WMIMon.exe.config
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\bin\x64\Release\WMIMon.exe.manifest
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\bin\x64\Release\WMIMon.application
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\bin\x64\Release\WMIMon.exe
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\bin\x64\Release\WMIMon.pdb
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\bin\x64\Release\System.Management.Automation.dll
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\obj\x64\Release\WMIMon.TrustInfo.xml
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\obj\x64\Release\WMIMon.exe.manifest
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\obj\x64\Release\WMIMon.application
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\obj\x64\Release\WMIMon.exe
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\obj\x64\Release\WMIMon.pdb

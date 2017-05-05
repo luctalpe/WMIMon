@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  WMITrace.cpp
+  Main.cpp
+  Generating Code...
+     Creating library C:\Users\luct\Source\Repos\WMIMon\x64\Debug\WMITrace.lib and object C:\Users\luct\Source\Repos\WMIMon\x64\Debug\WMITrace.exp
+  WMITrace.vcxproj -> C:\Users\luct\Source\Repos\WMIMon\x64\Debug\WMITrace.exe
+  WMITrace.vcxproj -> C:\Users\luct\Source\Repos\WMIMon\x64\Debug\WMITrace.pdb (Partial PDB)

@@ -1,0 +1,12 @@
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\bin\x64\Debug\WMIMon.exe.config
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\bin\x64\Debug\WMIMon.exe.manifest
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\bin\x64\Debug\WMIMon.application
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\bin\x64\Debug\WMIMon.exe
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\bin\x64\Debug\WMIMon.pdb
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\bin\x64\Debug\System.Management.Automation.dll
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\obj\x64\Debug\WMIMon.TrustInfo.xml
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\obj\x64\Debug\WMIMon.exe.manifest
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\obj\x64\Debug\WMIMon.application
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\obj\x64\Debug\WMIMon.exe
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\obj\x64\Debug\WMIMon.pdb
+C:\Users\luct\Source\Repos\WMIMon\WMIMon\obj\x64\Debug\WMIMon.csprojResolveAssemblyReference.cache

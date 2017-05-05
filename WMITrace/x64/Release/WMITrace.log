@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Main.cpp
+  WMITrace.cpp
+     Creating library C:\Users\luct\Source\Repos\WMIMon\x64\Release\WMITrace.lib and object C:\Users\luct\Source\Repos\WMIMon\x64\Release\WMITrace.exp
+  Generating code
+  All 170 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  WMITrace.vcxproj -> C:\Users\luct\Source\Repos\WMIMon\x64\Release\WMITrace.exe
+  WMITrace.vcxproj -> C:\Users\luct\Source\Repos\WMIMon\x64\Release\WMITrace.pdb (Full PDB)

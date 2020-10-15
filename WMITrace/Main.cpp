@@ -96,7 +96,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	if (HandleSession == NULL) return 1;
 
 	HANDLE h[] = { hEvent, hExternalStopEvent };
-	WaitForMultipleObjects(2, h, FALSE, 3600 * 1000);
+	WaitForMultipleObjects(2, h, FALSE, INFINITE);
 
 	Stop(HandleSession);
 	return 0;
